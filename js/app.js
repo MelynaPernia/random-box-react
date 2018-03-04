@@ -6,11 +6,7 @@
   const stylesBox = {
     backgroundColor: color,
     border: '1px solid black',
-    boxShadow: '3px 3px 2px black',
-    // height: 'auto',
-
-    // box-shadow:'
-   
+    boxShadow: '3px 3px 2px black'   
   }
 
   const styleText = {
